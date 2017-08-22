@@ -1,7 +1,5 @@
 # PSLogParser
 
-br_spaces 2
-
 ## Synopsis
 
 PSLogParser is a wrapper for Microsofts Log Parser. The Module requires the converted LogParser.dll which is not included in this package. At the moment this Module only handle IIS Log's as I needed a quick way to automate my process.
