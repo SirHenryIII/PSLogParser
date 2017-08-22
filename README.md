@@ -18,14 +18,12 @@ Test-PSLogParser
 ```
 
 ## References
-    [Log Parser 2.2 Download Link]<https://www.microsoft.com/en-us/download/details.aspx?id=24659>
-    [Log Parser 2.2 Documentation]<https://technet.microsoft.com/de-de/scriptcenter/dd919274.aspx?f=255&MSPPError=-2147217396>
-    [LogParser on msxfaq(German)]<https://www.msxfaq.de/tools/mswin/logparser.htm>
 
-## Contributors
-
-Thanks to Kristofer Grafvert <http://www.it-notebook.org/iis/article/cs_requests_per_folder.htm>
-Thanks to [shadow-wizard]<https://stackoverflow.com/users/447356/shadow-wizard>: <https://stackoverflow.com/a/11203698>
+    [Log Parser 2.2 Download Link](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+    [Log Parser 2.2 Documentation](https://technet.microsoft.com/de-de/scriptcenter/dd919274.aspx?f=255&MSPPError=-2147217396)
+    [LogParser on msxfaq(German)](https://www.msxfaq.de/tools/mswin/logparser.htm)
+    Kristofer Grafvert (http://www.it-notebook.org/iis/article/cs_requests_per_folder.htm)
+    [shadow-wizard](https://stackoverflow.com/users/447356/shadow-wizard): (https://stackoverflow.com/a/11203698)
 
 ## License
 
